@@ -1,6 +1,6 @@
 # Android App List
 
-## Funcionalidades do projeto</h3>
+## Funcionalidades do projeto
 
 - `Adição de Nota`: Adiciona uma nota à tela principal com título e conteúdo, armazenando-a no banco de dados.
 - `Remoção de Nota`: Remove uma nota da tela principal e do banco de dados.
